@@ -8,7 +8,7 @@ mongoose.connect(
   }
 );
 
-// Use this to log mongo queries being executed!
+// Use this to log MongoDB queries being executed!
 mongoose.set("debug", true);
 
 module.exports = mongoose.connection;
