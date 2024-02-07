@@ -1,5 +1,4 @@
 # social-network-api
-<!-- link to video    -->
 
 ## Description
 This API for a social network web application allows users to share their thoughts, react to friends’ thoughts, and create a friend list. It uses Express.js for routing, a MongoDB database, and the Mongoose ODM.  
@@ -22,3 +21,4 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list  
 
 ## Credits
+[Bootcampspot.com](https://bootcampspot.instructure.com/courses/4347/assignments/62243?module_item_id=1082368)  
